@@ -1,11 +1,11 @@
-#World_Weather_Analysis
-##Module 6 Data Analytics Bootcamp
+World_Weather_Analysis
+Module 6 Data Analytics Bootcamp
 
-####Weather_Vacation_App:
-####In Python using Jupyter Notebook
+Weather_Vacation_App:
+In Python using Jupyter Notebook
 
-#####Overview:
-	After completing the PlanMyTrip app that use APIs to pull city weather data and hotel location data.  It was asked that we add some additional features to improve the app 		for the end user.
+Overview:
+	After completing the PlanMyTrip app that use APIs to pull city weather data and hotel location data.  It was asked that we add some additional features to improve the 		app for the end user.
 	
 		*	We added a weather description field to the data set.
 		*	We added an input option for users to identify temperature preferences.
