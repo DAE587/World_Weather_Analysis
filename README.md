@@ -11,4 +11,4 @@
 		*	We added an input option for users to identify temperature preferences.
 		*	We added nearby hotel information.
 		*	We added pop-up on the map that would provide the city weather information on the city selected.
-		*	From the potential destinations the user could select four cities and a travel itinerary was created with all the pertinent information for each destination city 				including hotel information.
+		*	From the potential destinations the user could select four cities and a travel itinerary was created with all the pertinent information for each 				destination city including hotel information.
